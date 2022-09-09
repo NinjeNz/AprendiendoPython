@@ -1,0 +1,1 @@
+print('El nombre de tu cerveza es: \n'+ input('Cual es tu animal favorito?')+ ' ' +input('Escribe una caracteristica que te guste: '))
